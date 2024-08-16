@@ -1,0 +1,1001 @@
+subcategory_id,category
+1,food trucks
+2,rock
+3,web
+4,rock
+5,plays
+6,plays
+7,documentary
+8,plays
+9,plays
+10,electric music
+11,drama
+12,plays
+13,drama
+14,indie rock
+15,indie rock
+16,wearables
+17,nonfiction
+18,animation
+19,plays
+20,plays
+21,drama
+22,plays
+23,plays
+24,documentary
+25,wearables
+26,video games
+27,plays
+28,rock
+29,plays
+30,shorts
+31,animation
+32,video games
+33,documentary
+34,plays
+35,documentary
+36,drama
+37,plays
+38,fiction
+39,photography books
+40,plays
+41,wearables
+42,rock
+43,food trucks
+44,radio & podcasts
+45,fiction
+46,plays
+47,rock
+48,plays
+49,plays
+50,rock
+51,metal
+52,wearables
+53,plays
+54,drama
+55,wearables
+56,jazz
+57,wearables
+58,video games
+59,plays
+60,plays
+61,plays
+62,plays
+63,web
+64,plays
+65,web
+66,plays
+67,plays
+68,wearables
+69,plays
+70,plays
+71,plays
+72,plays
+73,animation
+74,jazz
+75,metal
+76,photography books
+77,plays
+78,animation
+79,translations
+80,plays
+81,video games
+82,rock
+83,video games
+84,electric music
+85,wearables
+86,indie rock
+87,plays
+88,rock
+89,translations
+90,plays
+91,plays
+92,translations
+93,video games
+94,plays
+95,web
+96,documentary
+97,plays
+98,food trucks
+99,video games
+100,plays
+101,plays
+102,electric music
+103,wearables
+104,electric music
+105,indie rock
+106,web
+107,plays
+108,plays
+109,documentary
+110,television
+111,food trucks
+112,radio & podcasts
+113,web
+114,food trucks
+115,wearables
+116,fiction
+117,plays
+118,television
+119,photography books
+120,documentary
+121,mobile games
+122,video games
+123,fiction
+124,plays
+125,photography books
+126,plays
+127,plays
+128,plays
+129,rock
+130,food trucks
+131,drama
+132,web
+133,plays
+134,world music
+135,documentary
+136,plays
+137,drama
+138,nonfiction
+139,mobile games
+140,wearables
+141,documentary
+142,web
+143,web
+144,indie rock
+145,plays
+146,wearables
+147,plays
+148,plays
+149,wearables
+150,indie rock
+151,rock
+152,electric music
+153,indie rock
+154,plays
+155,indie rock
+156,plays
+157,rock
+158,photography books
+159,rock
+160,plays
+161,wearables
+162,web
+163,rock
+164,photography books
+165,plays
+166,web
+167,photography books
+168,plays
+169,indie rock
+170,shorts
+171,indie rock
+172,translations
+173,documentary
+174,plays
+175,wearables
+176,plays
+177,plays
+178,plays
+179,food trucks
+180,plays
+181,wearables
+182,web
+183,plays
+184,rock
+185,plays
+186,television
+187,plays
+188,shorts
+189,plays
+190,plays
+191,plays
+192,plays
+193,rock
+194,indie rock
+195,metal
+196,electric music
+197,wearables
+198,drama
+199,electric music
+200,rock
+201,plays
+202,web
+203,food trucks
+204,plays
+205,jazz
+206,plays
+207,fiction
+208,rock
+209,documentary
+210,documentary
+211,science fiction
+212,plays
+213,plays
+214,indie rock
+215,rock
+216,plays
+217,plays
+218,science fiction
+219,shorts
+220,animation
+221,plays
+222,food trucks
+223,photography books
+224,plays
+225,science fiction
+226,rock
+227,photography books
+228,mobile games
+229,animation
+230,mobile games
+231,video games
+232,plays
+233,plays
+234,animation
+235,video games
+236,animation
+237,rock
+238,animation
+239,plays
+240,wearables
+241,plays
+242,nonfiction
+243,rock
+244,plays
+245,plays
+246,plays
+247,web
+248,fiction
+249,mobile games
+250,translations
+251,rock
+252,plays
+253,plays
+254,drama
+255,nonfiction
+256,rock
+257,rock
+258,plays
+259,plays
+260,photography books
+261,rock
+262,rock
+263,indie rock
+264,photography books
+265,plays
+266,plays
+267,jazz
+268,plays
+269,documentary
+270,television
+271,video games
+272,photography books
+273,plays
+274,plays
+275,plays
+276,translations
+277,video games
+278,plays
+279,web
+280,plays
+281,animation
+282,plays
+283,television
+284,rock
+285,web
+286,plays
+287,plays
+288,electric music
+289,metal
+290,plays
+291,documentary
+292,web
+293,food trucks
+294,plays
+295,plays
+296,plays
+297,plays
+298,plays
+299,rock
+300,food trucks
+301,nonfiction
+302,documentary
+303,plays
+304,indie rock
+305,documentary
+306,plays
+307,plays
+308,fiction
+309,plays
+310,indie rock
+311,video games
+312,plays
+313,plays
+314,rock
+315,documentary
+316,plays
+317,food trucks
+318,plays
+319,rock
+320,web
+321,fiction
+322,shorts
+323,plays
+324,documentary
+325,plays
+326,plays
+327,animation
+328,plays
+329,rock
+330,video games
+331,documentary
+332,food trucks
+333,wearables
+334,plays
+335,rock
+336,rock
+337,rock
+338,plays
+339,plays
+340,plays
+341,photography books
+342,indie rock
+343,plays
+344,plays
+345,video games
+346,drama
+347,indie rock
+348,web
+349,food trucks
+350,plays
+351,jazz
+352,rock
+353,plays
+354,plays
+355,documentary
+356,wearables
+357,plays
+358,video games
+359,photography books
+360,animation
+361,plays
+362,plays
+363,rock
+364,rock
+365,indie rock
+366,plays
+367,plays
+368,plays
+369,documentary
+370,television
+371,plays
+372,plays
+373,documentary
+374,plays
+375,documentary
+376,indie rock
+377,rock
+378,plays
+379,documentary
+380,plays
+381,plays
+382,plays
+383,photography books
+384,food trucks
+385,documentary
+386,nonfiction
+387,plays
+388,wearables
+389,indie rock
+390,plays
+391,photography books
+392,nonfiction
+393,wearables
+394,jazz
+395,documentary
+396,plays
+397,drama
+398,rock
+399,animation
+400,indie rock
+401,photography books
+402,plays
+403,shorts
+404,plays
+405,plays
+406,plays
+407,documentary
+408,plays
+409,documentary
+410,rock
+411,mobile games
+412,plays
+413,fiction
+414,animation
+415,food trucks
+416,plays
+417,documentary
+418,plays
+419,documentary
+420,web
+421,plays
+422,wearables
+423,plays
+424,food trucks
+425,indie rock
+426,photography books
+427,plays
+428,plays
+429,animation
+430,photography books
+431,plays
+432,plays
+433,plays
+434,documentary
+435,plays
+436,plays
+437,jazz
+438,animation
+439,plays
+440,science fiction
+441,television
+442,wearables
+443,plays
+444,plays
+445,indie rock
+446,plays
+447,wearables
+448,television
+449,video games
+450,video games
+451,animation
+452,rock
+453,drama
+454,science fiction
+455,drama
+456,plays
+457,indie rock
+458,plays
+459,plays
+460,documentary
+461,plays
+462,drama
+463,mobile games
+464,animation
+465,plays
+466,translations
+467,wearables
+468,web
+469,plays
+470,drama
+471,wearables
+472,food trucks
+473,rock
+474,electric music
+475,television
+476,translations
+477,fiction
+478,science fiction
+479,wearables
+480,food trucks
+481,photography books
+482,plays
+483,fiction
+484,plays
+485,food trucks
+486,plays
+487,translations
+488,plays
+489,plays
+490,wearables
+491,audio
+492,food trucks
+493,shorts
+494,photography books
+495,wearables
+496,plays
+497,animation
+498,wearables
+499,web
+500,documentary
+501,plays
+502,documentary
+503,video games
+504,drama
+505,rock
+506,radio & podcasts
+507,plays
+508,web
+509,plays
+510,plays
+511,drama
+512,plays
+513,video games
+514,television
+515,rock
+516,plays
+517,nonfiction
+518,food trucks
+519,animation
+520,rock
+521,plays
+522,drama
+523,shorts
+524,shorts
+525,plays
+526,wearables
+527,plays
+528,animation
+529,indie rock
+530,video games
+531,fiction
+532,video games
+533,plays
+534,indie rock
+535,drama
+536,plays
+537,fiction
+538,documentary
+539,mobile games
+540,food trucks
+541,photography books
+542,mobile games
+543,indie rock
+544,video games
+545,rock
+546,plays
+547,plays
+548,drama
+549,plays
+550,wearables
+551,indie rock
+552,web
+553,plays
+554,rock
+555,indie rock
+556,rock
+557,translations
+558,science fiction
+559,plays
+560,plays
+561,animation
+562,plays
+563,rock
+564,documentary
+565,plays
+566,plays
+567,electric music
+568,rock
+569,plays
+570,animation
+571,rock
+572,shorts
+573,rock
+574,audio
+575,food trucks
+576,plays
+577,plays
+578,jazz
+579,science fiction
+580,jazz
+581,plays
+582,web
+583,video games
+584,documentary
+585,web
+586,translations
+587,rock
+588,food trucks
+589,plays
+590,documentary
+591,radio & podcasts
+592,video games
+593,plays
+594,animation
+595,plays
+596,plays
+597,drama
+598,plays
+599,rock
+600,documentary
+601,food trucks
+602,wearables
+603,plays
+604,plays
+605,plays
+606,nonfiction
+607,rock
+608,food trucks
+609,jazz
+610,science fiction
+611,plays
+612,plays
+613,electric music
+614,plays
+615,plays
+616,plays
+617,indie rock
+618,plays
+619,nonfiction
+620,plays
+621,photography books
+622,plays
+623,indie rock
+624,plays
+625,photography books
+626,plays
+627,plays
+628,food trucks
+629,indie rock
+630,plays
+631,plays
+632,plays
+633,plays
+634,animation
+635,television
+636,television
+637,animation
+638,plays
+639,plays
+640,drama
+641,plays
+642,plays
+643,wearables
+644,plays
+645,plays
+646,rock
+647,video games
+648,translations
+649,food trucks
+650,plays
+651,jazz
+652,shorts
+653,web
+654,web
+655,metal
+656,photography books
+657,food trucks
+658,science fiction
+659,rock
+660,documentary
+661,plays
+662,jazz
+663,plays
+664,plays
+665,jazz
+666,documentary
+667,plays
+668,audio
+669,plays
+670,plays
+671,indie rock
+672,plays
+673,plays
+674,indie rock
+675,photography books
+676,audio
+677,photography books
+678,fiction
+679,drama
+680,food trucks
+681,mobile games
+682,plays
+683,plays
+684,plays
+685,nonfiction
+686,plays
+687,wearables
+688,plays
+689,television
+690,web
+691,documentary
+692,documentary
+693,rock
+694,plays
+695,plays
+696,rock
+697,plays
+698,electric music
+699,wearables
+700,drama
+701,wearables
+702,plays
+703,wearables
+704,translations
+705,animation
+706,nonfiction
+707,web
+708,drama
+709,plays
+710,plays
+711,plays
+712,plays
+713,plays
+714,radio & podcasts
+715,rock
+716,mobile games
+717,plays
+718,documentary
+719,wearables
+720,fiction
+721,plays
+722,rock
+723,documentary
+724,plays
+725,plays
+726,mobile games
+727,plays
+728,web
+729,plays
+730,drama
+731,wearables
+732,web
+733,rock
+734,metal
+735,plays
+736,photography books
+737,nonfiction
+738,indie rock
+739,plays
+740,indie rock
+741,plays
+742,plays
+743,electric music
+744,plays
+745,plays
+746,wearables
+747,web
+748,plays
+749,animation
+750,wearables
+751,electric music
+752,nonfiction
+753,plays
+754,photography books
+755,plays
+756,plays
+757,plays
+758,drama
+759,rock
+760,electric music
+761,video games
+762,rock
+763,jazz
+764,plays
+765,rock
+766,indie rock
+767,science fiction
+768,translations
+769,plays
+770,video games
+771,plays
+772,plays
+773,indie rock
+774,plays
+775,web
+776,rock
+777,plays
+778,plays
+779,animation
+780,plays
+781,drama
+782,plays
+783,animation
+784,rock
+785,web
+786,animation
+787,jazz
+788,rock
+789,animation
+790,plays
+791,plays
+792,food trucks
+793,plays
+794,nonfiction
+795,rock
+796,drama
+797,mobile games
+798,web
+799,plays
+800,plays
+801,rock
+802,photography books
+803,photography books
+804,plays
+805,rock
+806,documentary
+807,drama
+808,plays
+809,food trucks
+810,documentary
+811,plays
+812,video games
+813,nonfiction
+814,video games
+815,rock
+816,rock
+817,plays
+818,nonfiction
+819,plays
+820,video games
+821,rock
+822,documentary
+823,rock
+824,rock
+825,nonfiction
+826,shorts
+827,plays
+828,drama
+829,plays
+830,plays
+831,plays
+832,photography books
+833,translations
+834,translations
+835,plays
+836,web
+837,indie rock
+838,jazz
+839,plays
+840,documentary
+841,plays
+842,web
+843,wearables
+844,photography books
+845,documentary
+846,web
+847,web
+848,food trucks
+849,drama
+850,indie rock
+851,rock
+852,electric music
+853,video games
+854,indie rock
+855,fiction
+856,plays
+857,food trucks
+858,shorts
+859,food trucks
+860,plays
+861,wearables
+862,plays
+863,plays
+864,television
+865,shorts
+866,plays
+867,photography books
+868,food trucks
+869,plays
+870,drama
+871,plays
+872,plays
+873,science fiction
+874,photography books
+875,photography books
+876,rock
+877,photography books
+878,food trucks
+879,metal
+880,nonfiction
+881,electric music
+882,plays
+883,plays
+884,shorts
+885,plays
+886,plays
+887,indie rock
+888,plays
+889,plays
+890,electric music
+891,indie rock
+892,documentary
+893,translations
+894,documentary
+895,television
+896,plays
+897,food trucks
+898,plays
+899,documentary
+900,jazz
+901,web
+902,rock
+903,web
+904,nonfiction
+905,radio & podcasts
+906,plays
+907,documentary
+908,plays
+909,video games
+910,plays
+911,plays
+912,web
+913,drama
+914,drama
+915,plays
+916,television
+917,photography books
+918,shorts
+919,radio & podcasts
+920,plays
+921,animation
+922,web
+923,world music
+924,plays
+925,plays
+926,plays
+927,food trucks
+928,plays
+929,web
+930,plays
+931,plays
+932,plays
+933,rock
+934,plays
+935,plays
+936,plays
+937,plays
+938,documentary
+939,fiction
+940,video games
+941,web
+942,plays
+943,plays
+944,food trucks
+945,photography books
+946,photography books
+947,plays
+948,plays
+949,documentary
+950,web
+951,plays
+952,rock
+953,documentary
+954,science fiction
+955,web
+956,plays
+957,science fiction
+958,plays
+959,animation
+960,translations
+961,web
+962,translations
+963,food trucks
+964,photography books
+965,plays
+966,rock
+967,plays
+968,world music
+969,food trucks
+970,plays
+971,plays
+972,television
+973,web
+974,plays
+975,indie rock
+976,plays
+977,plays
+978,food trucks
+979,video games
+980,plays
+981,nonfiction
+982,web
+983,documentary
+984,documentary
+985,plays
+986,rock
+987,rock
+988,documentary
+989,radio & podcasts
+990,translations
+991,drama
+992,rock
+993,drama
+994,photography books
+995,translations
+996,food trucks
+997,plays
+998,plays
+999,indie rock
+1000,food trucks
