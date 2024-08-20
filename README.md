@@ -76,3 +76,29 @@ Create the Crowdfunding Database
 4f. Verify the table creation by running a SELECT statement for each table.
 4g. Import each CSV file into its corresponding SQL table.
 4h. Verify that each table has the correct data by running a SELECT statement for each.
+
+SQL Tables
+----------------------
+Contacts Table
+
+![select_from_contacts](https://github.com/tgrishanina/Crowdfunding_ETL/blob/main/Images/select_from_contacts.png)
+
+
+Campaign Table
+
+![select_from_campaign](https://github.com/tgrishanina/Crowdfunding_ETL/blob/main/Images/select_from_campaign.png)
+
+
+Category Table
+
+![select_from_category](https://github.com/tgrishanina/Crowdfunding_ETL/blob/main/Images/select_from_category.png)
+
+
+Subcategory Table
+
+![select_from_subcategory](https://github.com/tgrishanina/Crowdfunding_ETL/blob/main/Images/select_from_subcategory.png)
+
+
+All SQL Tables
+
+![all_tables](https://github.com/tgrishanina/Crowdfunding_ETL/blob/main/Images/all_tables.png)
